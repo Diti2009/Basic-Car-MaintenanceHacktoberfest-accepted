@@ -24,6 +24,7 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
+  Being disrespectful to people in any way will not be tolerated an be made an important note about. 
 
 Examples of unacceptable behavior include:
 
@@ -35,6 +36,7 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+   Any kind of shaming,lgbtq or racial comments comments are to be removed without any further questions
 
 ## Enforcement Responsibilities
 
@@ -122,6 +124,7 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
+If you join Hacktoberfest not only can yu explore more ideas about coding but also have fun and try out your own codes.
 
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
