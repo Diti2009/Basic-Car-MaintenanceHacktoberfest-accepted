@@ -7,7 +7,7 @@ community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+and orientation.No one in anyway sould be discriminated in any way.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
@@ -24,7 +24,8 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
-
+ Teaching others how to contribute in acode and giving them valuable  knowledge about github and  hacktoberfest.
+supporting or cheering people for writing a code.
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or
@@ -35,6 +36,7 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+  Any time of Shaming,lgbtq or racist comments are to be removed without any further questions.
 
 ## Enforcement Responsibilities
 
@@ -126,3 +128,5 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+You can try Hacktoberfest on Github too beacuuse not only do you learn more about coding but it can also help in the future
